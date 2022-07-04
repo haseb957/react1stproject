@@ -1,0 +1,22 @@
+{
+    "studentDetail": {
+        "name": "Syed Yasir Abbas",
+        "father_name": "Gulzar Hussain Shah",
+        "session": "Fall 2022 2022",
+        "admission_date": null,
+        "completion_date": null,
+        "program": "ADP in Culinary Sciences",
+        "degree": "Software Engineering",
+        "reg_no": "535682"
+    },
+    "transcript": [
+        {
+            "id": "535682",
+            "course_code": "CS-216",
+            "course_name": "Data Structure & Algorithms",
+            "credit_hours": 3,
+            "grade": "B+",
+            "gpa": "3.5"
+        }
+    ]
+}
